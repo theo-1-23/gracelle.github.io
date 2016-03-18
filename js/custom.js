@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-	/*
+	/* New and improved code, courtesy of Chuddy (thanks, man!)
 	* Since you are using the same functions, we could combine them into an array and call one function to fire the event
 	*/
 	var array_names = [ 'gradus', 'nove', 'go2gether', 'vsma', 'engage', 'fortune', 'logo', 'cards', 'misc', 'selfie' ];
@@ -17,7 +17,7 @@ $(document).ready(function() {
 	} 
 });
 
-/* 
+/* old-ass code
 
 $( document ).ready(function() {
 
